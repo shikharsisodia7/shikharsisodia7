@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://shikharsisodia.tech" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1000&color=4C51BF&center=true&vCenter=true&width=440&lines=College+student+exploring+and+building." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1000&color=4C51BF&center=true&vCenter=true&width=440&lines=Exploring+and+Building." alt="Typing SVG" />
   </a>
 </p>
 
